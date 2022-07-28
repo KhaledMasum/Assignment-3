@@ -1,0 +1,9 @@
+.custom-relative {
+    position: relative;
+}
+
+.custom-absolute {
+    position: absolute;
+    top: 50%;
+    right: 50%;
+}
